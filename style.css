@@ -3,9 +3,7 @@ body {
 	color:#777;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
-	text-align: center;margin-top: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
+	text-align: center;
 }
 
 #container {
@@ -46,11 +44,6 @@ header {
 	padding-bottom: 15px;
 	padding-left: 15px;
 	float: left;
-}
-
-#h1 {
-	font-size: 18px;
-	font-weight: normal;
 }
 
 article {
